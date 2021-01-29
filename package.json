@@ -1,7 +1,7 @@
 {
-  "name": "start-gulp",
+  "name": "home-market",
   "version": "1.0.0",
-  "description": "",
+  "description": "magazin",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,6 +20,15 @@
   },
   "dependencies": {
     "gulp-debug": "^4.0.0",
-    "gulp-uglify": "^3.0.2"
-  }
+    "gulp-uglify": "^3.0.2",
+    "save-dev": "0.0.1-security"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olga-lea/start-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/olga-lea/start-project/issues"
+  },
+  "homepage": "https://github.com/olga-lea/start-project#readme"
 }
