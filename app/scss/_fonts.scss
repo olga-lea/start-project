@@ -1,12 +1,4 @@
-@font-face{
-  font-family: 'Quicksand-Regular';
-  font-weight: 400;
-  font-style: normal;
-  src: local('Quicksand-Regular'),
-   url('../fonts/Quicksand-Regular.woff2') format('woff2'),
-   url('../fonts/Quicksand-Regular.woff') format('woff');
-   font-display: swap;
- }
+
 
  @font-face{
   font-family: 'Quicksand-Medium';
@@ -15,6 +7,16 @@
   src: local('Quicksand-Medium'),
    url('../fonts/Quicksand-Medium.woff2') format('woff2'),
    url('../fonts/Quicksand-Medium.woff') format('woff');
+   font-display: swap;
+ }
+ 
+ @font-face{
+  font-family: 'Quicksand-Regular';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Quicksand-Regular'),
+   url('../fonts/Quicksand-Regular.woff2') format('woff2'),
+   url('../fonts/Quicksand-Regular.woff') format('woff');
    font-display: swap;
  }
 
